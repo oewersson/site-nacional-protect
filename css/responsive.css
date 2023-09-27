@@ -437,12 +437,12 @@
   }
 }
 
-@media only screen and (max-width: 320px) {
+@media only screen and (max-width: 390px) {
   h1 {
     font-size: var(--font-34);
   }
 
-  h2 {
+  h2-secundary {
     font-size: var(--font-26);
   }
 
